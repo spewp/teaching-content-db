@@ -1,0 +1,18 @@
+2025-06-23 17:28:26 - teaching-content-db - INFO - demonstrate_chunk_3_5:29 - Logging system initialized successfully
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_content_type
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_content_subject
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_content_grade_level
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_content_status
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_content_date_created
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_content_category
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_content_type_subject
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_content_type_grade
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_tag_name
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_tag_usage_count
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_category_name
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_category_parent
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:49 - Created index: idx_category_active
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:56 - Index creation complete. Created 13 new indexes.
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:62 - Database analysis complete
+2025-06-23 17:28:26 - teaching-content-db.optimization - INFO - optimizations:200 - Query optimization settings applied
+2025-06-23 17:28:26 - teaching-content-db - INFO - demonstrate_chunk_3_5:168 - Chunk 3.5 demonstration completed successfully

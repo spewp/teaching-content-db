@@ -1,0 +1,47 @@
+# Core Web Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Database and ORM
+SQLAlchemy==2.0.23
+Flask-SQLAlchemy==3.1.1
+
+# API and Serialization
+marshmallow==3.20.1
+Flask-Marshmallow==0.15.0
+marshmallow-sqlalchemy==0.29.0
+
+# File Handling and Validation
+python-magic==0.4.27
+Pillow>=10.0.0
+python-dotenv==1.0.0
+
+# Web Utilities
+Flask-CORS==4.0.0
+Jinja2==3.1.2
+
+# Development and Testing
+pytest==7.4.3
+pytest-flask==1.3.0
+black==23.11.0
+flake8==6.1.0
+
+# Security and Validation
+itsdangerous==2.1.2
+click==8.1.7
+
+# Date and Time Utilities
+python-dateutil==2.8.2
+
+# Backup and File Operations
+pathlib2==2.3.7
+
+# Smart Launcher Dependencies
+requests==2.31.0
+psutil==5.9.6
+
+# Content Analysis Dependencies (Task 1.1)
+ollama>=0.1.0                # Local LLM integration  
+python-docx>=0.8.11         # Document content extraction
+pypdf2>=2.10.0              # PDF text extraction
+python-pptx>=0.6.21         # PowerPoint content extraction 
